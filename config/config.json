@@ -95,5 +95,5 @@
 
   "output_table": "default.flights",
   "output_partitions": 10,
-  "EXECUTION_ENVIRONMENT": "databricks"
+  "EXECUTION_ENVIRONMENT": "local"
 }

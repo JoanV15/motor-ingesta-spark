@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: motor-ingesta
+Version: 0.1.0
+Summary: Motor de ingesta para el curso de Spark - Tarea Final
+Home-page: https://github.com/JoanV15
+Author: Joan F. Vázquez
+Author-email: joanfe01@ucm.es
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+Motor de ingesta para el curso de Spark

@@ -1,3 +1,35 @@
 .idea
+
 *.ipynb_checkpoints
+
 *pycache*
+
+# Datos y Warehouse
+
+*.json
+
+spark-warehouse/
+
+*.Zone.identifier
+
+
+
+# Python y Compilación
+
+__pycache__/
+
+*.pyc
+
+build/
+
+dist/
+
+*.egg-info/
+
+
+
+# Entornos
+
+.venv/
+
+.env
